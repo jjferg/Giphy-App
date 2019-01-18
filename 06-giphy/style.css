@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background: url("https://www.blogteraktual.com/wp-content/uploads/2018/06/hd-wallpaper-3d-free-download-3d-wallpaper-free-download-hd-4863-wallpaper-of-hd-wallpaper-3d-free-download.jpg")
+}
+
+button{
+    color: rgb(1,254,255);
+    background: rgb(255,21,23);
+}
+
+h4{
+    color: yellow;
+}
