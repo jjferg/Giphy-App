@@ -1,0 +1,71 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background: url("https://www.blogteraktual.com/wp-content/uploads/2018/06/hd-wallpaper-3d-free-download-3d-wallpaper-free-download-hd-4863-wallpaper-of-hd-wallpaper-3d-free-download.jpg")
+}
+
+input {
+    color: rgb(1,254,255);
+    background: rgb(255,21,23);
+    margin-top: 2%;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none; 
+    outline: none;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 4px rgb(1,254,255)
+
+
+}
+
+p  {color: greenyellow;
+    margin-top: 2%;
+}
+
+
+
+button {
+    margin: 1% 1% 0% 1%;
+    font-size: 25px;
+    color: rgb(1,254,255);
+    background: rgb(255,21,23);
+    box-shadow: 0 5px #666;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 4px rgb(1,254,255);
+    
+}
+
+ button:hover  {background-color: #f8eaea}
+
+button:active{
+    background: rgb(255,21,23);
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+
+
+h4 {
+    color: yellow;
+}
+
+img {
+    border: solid greenyellow;
+    display: inline-block;
+    box-shadow: 7px 7px rgb(1,254,255);
+    position: relative;
+   
+}
+
+.image1{
+    display: inline-block;
+    margin: 0% 2% 3% 3%;
+}
