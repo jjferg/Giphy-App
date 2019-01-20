@@ -21,7 +21,7 @@ input {
 
 }
 
-p {color: greenyellow;
+p  {color: greenyellow;
     margin-top: 2%;
 }
 
@@ -44,7 +44,7 @@ button {
     
 }
 
-.button:hover {background-color: #f8eaea}
+ button:hover  {background-color: #f8eaea}
 
 button:active{
     background: rgb(255,21,23);
