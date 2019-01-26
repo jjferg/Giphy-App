@@ -19,7 +19,7 @@ $(document).ready(function () {
       });
 
       //loging the topics to ensure they are working for each seperate topic
-      console.log(topics);
+      // console.log(topics);
 
       $('#giphy-buttons').append(button);
     }
