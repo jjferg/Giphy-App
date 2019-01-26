@@ -55,6 +55,7 @@ button:active{
 
 h4 {
     color: yellow;
+    text-shadow:5px 5px 5px pink;
 }
 
 img {
@@ -68,4 +69,11 @@ img {
 .image1{
     display: inline-block;
     margin: 0% 2% 3% 3%;
+}
+
+#fav{
+    float: right;
+    color: rgb(1,254,255);
+    padding-right: 2%;
+
 }
