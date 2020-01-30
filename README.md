@@ -2,7 +2,7 @@
 This app, when a button is registered, will display ten GIPH's in relation to the subject.
 Pre-selected GIPH buttons are available. There's a feature that allows the user to add a button with a subject of thier choice! The GIPH's start out still. You can click on the GIPH to play then again to pause.
     
- Try it out NOW!![GiphyApp](https://jjferg.github.io/Giphy-App/)
+ Try it out  [GiphyApp](https://jjferg.github.io/Giphy-App/)
  
 ## Over View
 - HTML  is minimal. A Div container is used to house the elements. A form element with input for user.
