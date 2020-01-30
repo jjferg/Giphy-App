@@ -5,10 +5,12 @@ Pre-selected GIPH buttons are available. There's a feature that allows the user 
  Try it out  [GiphyApp](https://jjferg.github.io/Giphy-App/)
  
 ## Over View
+- Front End Application
 - HTML  is minimal. A Div container is used to house the elements. A form element with input for user.
 - BootStrap is use just to keep the elements in simple order.
-- Javsascript/JQuery is used here to dynamically create the button elements with the attributes.
-
+- Javsascript/JQuery is used here to dynamically create the button elements along with attributes. Which takes the users 
+input makes GET request to the giphy api, if successful the data is returned then rendered to the HTML.
+- CSS is used to color and shape the buttons. 
 
 ## How to install this app on your computer(local)
 1. Under the repository name, click Clone or download.
