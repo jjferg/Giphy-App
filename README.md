@@ -1,8 +1,12 @@
 # GIPHY app
-   This app, when a button is registered, will display ten GIPH's related to the subject.
-Pre-selected GIPH's are already available. There's also a feature that allows the user to add a button of thier own with there subject of choice! The GIPH's start out still. You can click on the relative GIPH to play then again to pause.
+   This app, when a button is registered, will display ten GIPH's in relation to the subject.
+Pre-selected GIPH buttons are available. There's a feature that allows the user to add a button with a subject of thier choice! The GIPH's start out still. You can click on the GIPH to play then again to pause.
     
- Try it out[GiphyApp](https://jjferg.github.io/06-giphy/)
+ Try it out NOW!![GiphyApp](https://jjferg.github.io/06-giphy/)
+ 
+## Over View
+
+
 
 ## How to install this app on your computer(local)
 1. Under the repository name, click Clone or download.
