@@ -13,4 +13,4 @@ Pre-selected GIPH's are already available. There's also a feature that allows th
 ### requirements for install(local)
 
 First you need to do is create a GIPH account. Sign up and request a key for API accesss. <br />
-Now add the api key to you query string var queryURL = `"http://api.giphy.com/v1/gifs/search?q="` + api key
+Now add the api key to you query string Example: var queryURL = `"http://api.giphy.com/v1/gifs/search?q="` + api key
