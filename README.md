@@ -25,4 +25,5 @@ Now add the api key to you query string Example:
 ```js 
   var queryURL = "http://api.giphy.com/v1/gifs/search?q=" + api key
 ```
-
+# Default Screen
+![Giphy-App](giphy_app.jpg)
