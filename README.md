@@ -17,7 +17,9 @@ input makes GET request to the giphy api, if successful the data is returned the
 2. In the Clone with HTTPs section, click to copy the clone URL for the repository.
 3. Open Git Bash.
 4. Change the current working directory to the location where you want the cloned directory to be made.
-5. Link to [Install Instructions](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
+5. After install in the terminal run: NPM install to download all the neccesarry packeges for the app.
+6. Link to [Install Instructions](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
+
 
 ### requirements for install(local)
 First you need to do is create a GIPH account. Sign up and request a key for API accesss. <br />
