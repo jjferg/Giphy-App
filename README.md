@@ -22,7 +22,7 @@ input makes GET request to the giphy api, if successful the data is returned the
 
 
 ### Requirements for install(local)
-First you need to do is create a GIPH account. Sign up and request a key for API accesss. <br />
+First you need to create a GIPH account. Sign up and request a key for API accesss. <br />
 Now add the api key to you query string Example: 
 ```js 
   var queryURL = "http://api.giphy.com/v1/gifs/search?q=" + api key
