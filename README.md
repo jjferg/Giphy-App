@@ -21,7 +21,7 @@ input makes GET request to the giphy api, if successful the data is returned the
 6. Link to [Install Instructions](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
 
 
-### requirements for install(local)
+### Requirements for install(local)
 First you need to do is create a GIPH account. Sign up and request a key for API accesss. <br />
 Now add the api key to you query string Example: 
 ```js 
