@@ -4,7 +4,7 @@ Pre-selected GIPH buttons are available. There's a feature that allows the user 
     
  Try it out  [GiphyApp](https://jjferg.github.io/Giphy-App/)
  
-## Over View
+## OverView
 - Front End Application
 - HTML  is minimal. A Div container is used to house the elements. A form element with input for user.
 - BootStrap is use just to keep the elements in simple order.
